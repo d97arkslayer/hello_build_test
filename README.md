@@ -12,4 +12,4 @@ To run this project you must follow the next steps:
     docker compose up
     ```
 
-4. In your browser go to [http//:localhost:3000](http://localhost:3000)
+4. In your browser go to [http://localhost:3000](http://localhost:3000)
